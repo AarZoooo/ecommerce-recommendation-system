@@ -35,7 +35,7 @@ Predictions done based on other products from the same cluster (based of text an
 
 Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
 
-![image](https://user-images.githubusercontent.com/38769913/51401953-27a90a00-1b1a-11e9-9dca-c18c9d592121.png)
+![image](media/image1.png)
 
 
 ### Analysis:
@@ -48,7 +48,7 @@ The above graph gives us the most popular products (arranged in descending order
 
 #### Recommending top 10 highly correlated products in sequence based on a customer's purchase history:
 
-![image](https://user-images.githubusercontent.com/38769913/51402144-a8680600-1b1a-11e9-8c45-3f8177516a48.png)
+![image](media/image2.png)
 
 ### Conclusion: 
 
@@ -62,7 +62,7 @@ For a business without any user-item purchase history, a search engine based rec
 
 #### Visualizing product clusters in subset of data:
 
-![image](https://user-images.githubusercontent.com/38769913/51402355-393ee180-1b1b-11e9-9f98-8af45733d496.png)
+![image](media/image3.png)
 
 ### Top words in the first 3 clusters based on text analysis and clustering techniques applied to product description:
 
